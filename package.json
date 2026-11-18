@@ -1,5 +1,5 @@
 {
-  "name": "snapp-app",
+  "name": "rizzup",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
@@ -20,7 +20,10 @@
     "@expo/vector-icons": "^15.0.2",
     "@supabase/supabase-js": "^2.39.0",
     "expo-localization": "~57.0.1",
-    "i18n-js": "^4.4.3"
+    "i18n-js": "^4.4.3",
+    "react-dom": "19.2.3",
+    "react-native-web": "^0.21.0",
+    "@expo/metro-runtime": "~57.0.0"
   },
   "devDependencies": {
     "@types/react": "~19.0.0",
